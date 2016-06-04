@@ -1,0 +1,23 @@
+{
+  "name": "Youtube Mp3 Downloader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "youtube-mp3-downloader": "^0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batilc1/youtube-mp3-downloader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batilc1/youtube-mp3-downloader/issues"
+  },
+  "homepage": "https://github.com/batilc1/youtube-mp3-downloader#readme"
+}
